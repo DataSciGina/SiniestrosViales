@@ -54,7 +54,7 @@ Datos del `Observatorio de Movilidad y Seguridad Vial` (OMSV), subdivisión de l
 
 <h2 align='center' id='result'>Resultados y Conclusiones</h2>
 
-### Conclusiones Tabla de Hechos:
+### Observaciones Tabla de Hechos:
 
 - La mayoría de los siniestros ocurren durante la franja horaria de 5 a 7:59 horas.
 - La mayoría de los accidentes ocurren en avenidas.
@@ -65,7 +65,7 @@ Datos del `Observatorio de Movilidad y Seguridad Vial` (OMSV), subdivisión de l
 - La mayor concentración de accidentes se encuentran en las avenidas de la comuna 2.
 - La mayor cantidad de acusados son pasajeros siendo las víctimas los peatones.
 
-### Conclusiones Tabla de Víctimas:
+### Observaciones Tabla de Víctimas:
 
 - La mayoría de los roles de las víctimas son conductor y peatón (46.03% y 37.24% respectivamente).
 - La mayoría de las víctimas son Motos y Peatones (42.26% y 37.24% respectivamente).
@@ -82,7 +82,7 @@ Datos del `Observatorio de Movilidad y Seguridad Vial` (OMSV), subdivisión de l
 - La mayoría de las víctimas masculinas fallecieron entre los años 2016 al 2018.
 - La mayoría de las víctimas femeninas fallecieron entre los años 2017 y 2018.
 
-### Conclusiones Tabla Unificada:
+### Observaciones Tabla Unificada:
 #### Distribución de Rol y Sexo por Tipo de Calle
 - La mayoría de accidentes ocurren en avenidas y las víctimas más comúnes son Conductores y Peatones.
 - En el tipo de calle Gral Paz, los conductores son las principales víctimas.
@@ -115,6 +115,15 @@ Datos del `Observatorio de Movilidad y Seguridad Vial` (OMSV), subdivisión de l
 - Outliers en varias horas: A lo largo del gráfico, hay puntos fuera de los bigotes (outliers), lo que sugiere que en ciertas horas hay individuos significativamente más jóvenes o más mayores que el rango general.
 - Mediana de la edad constante: A lo largo del día, la mediana de la edad (línea dentro de cada caja) no varía drásticamente. Esto indica que, en general, la edad media de las personas involucradas en incidentes es relativamente constante, alrededor de los 40-50 años, en la mayoría de las horas.
 - Horas con menos variación: A partir de las 22:00 horas hasta la medianoche, la dispersión de las edades se reduce, sugiriendo que los incidentes a esas horas tienden a involucrar a un grupo de edad más homogéneo.
+
+### Conclusiones:
+- La mayoría de las víctimas mueren entre las 2 y las 13 hs.
+- En diciembre, la cantidad de víctimas tiende a aumentar.
+- La mayoría de los siniestros viales transcurren en cruces, principalmente entre autopistas y avenidas.
+- La mayoría de las víctimas en moto tienen entre 20 y 30 años.
+- La mayoría de los accidentes en autopistas son causados por camiones de carga y las principales víctimas son motos.
+- La mayoría de los accidentes en autopistas se producen en cruces y se concentran a lo largo de la Av Gral Paz.
+- Los accidentes en autopistas que no se producen en cruces se concentran mayormente en el interior sur de la ciudad.
 
 <h2 align='center' id='colab'>Contribución y Colaboración</h2>
 
